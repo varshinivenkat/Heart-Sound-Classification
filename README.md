@@ -1,0 +1,3 @@
+# Heart-Sound-Classification Using Deep Learning
+
+This project focuses on developing a deep learning model to classify heart sounds into five distinct categories: Normal (N), Aortic Stenosis (AS), Mitral Valve Prolapse (MVP), Mitral Regurgitation (MR), and Mitral Stenosis (MS). Using a custom neural network architecture based on ResNet50, the model processes audio data represented as mel spectrograms. The project involves data preprocessing, model training, evaluation, and performance analysis. It is inspired by research on SAINet, which integrates CNN and transfer learning for heart disease detection.
